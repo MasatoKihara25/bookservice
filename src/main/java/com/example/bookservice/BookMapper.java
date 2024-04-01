@@ -8,6 +8,6 @@ import java.util.List;
 @Mapper
 public interface BookMapper {
 
-    @Select("SELECT * FROM music")
+    @Select("SELECT * FROM books")
     List<Book> findAll();
 }
