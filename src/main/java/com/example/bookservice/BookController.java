@@ -15,8 +15,8 @@ public class BookController {
     }
 
     @GetMapping("/books")
-    public List<Book> getBook(){
-        List<Book> book = bookMapper.findAll();
+    public List<Book> findByBook(BookSearchRequest request) {
+        List<Book> book = bookMapper.findBook(request.getStartsWith(), request.getEndsWith(), request.getContains());
         return book;
     }
 }
