@@ -2,9 +2,7 @@
 
 ## このプロジェクトについて
 
-このプロジェクトは第8回の課題提出として作成しています。
-
-Spring Boot と MySQL を用いたREAD処理を実装したAPIです。
+このプロジェクトは Spring Boot と MySQL を用いたREAD処理を実装したAPIです。
 
 
 
