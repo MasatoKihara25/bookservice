@@ -11,3 +11,4 @@ INSERT INTO books (title, author) VALUES ("Wonder", "R.J.Palacio");
 INSERT INTO books (title, author) VALUES ("The little prince", "Antoine de Saint-Exupéry");
 INSERT INTO books (title, author) VALUES ("HOLES", "Louis Sachar");
 INSERT INTO books (title, author) VALUES ("Who Moved My Cheese?", "Spencer Johnson");
+INSERT INTO books (title, author) VALUES ("Momo", "Michael Ende");
