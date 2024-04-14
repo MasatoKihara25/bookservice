@@ -2,6 +2,7 @@ package com.example.bookservice;
 
 public class NameSearch {
 
-//コメント
+    //コメント
+    private int id;
 
 }
